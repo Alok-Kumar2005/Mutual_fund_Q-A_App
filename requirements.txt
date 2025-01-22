@@ -1,0 +1,10 @@
+langchain
+langchain-community
+pypdf
+streamlit
+boto3
+python-dotenv
+langchain-google-genai
+faiss-cpu
+ipykernel
+-e .
